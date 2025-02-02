@@ -15,7 +15,7 @@ Dont worry we got you! send us the message you want to send him and we will take
 - First, lets checksec to see security mitigations of the file:
 ``` console
 $ checksec --file=hateful        
-[*] '/Users/leducanhvu/Downloads/CTF/nullcon/hateful'
+[*]
     Arch:     amd64-64-little
     RELRO:    Partial RELRO
     Stack:    No canary found
